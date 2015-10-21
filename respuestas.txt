@@ -1,3 +1,9 @@
 - ¿QUE ES RVM?
 
 Ruby Version Manager es una herramienta que nos permite tener en la misma máquina varios intérpretes de ruby y gemas.
+
+
+-El resultado es "Hello World" y un nil
+
+
+-La diferencia es que irb ejecuta sentencia por sentencia, mientras que un intérprete ejecuta todo el código.

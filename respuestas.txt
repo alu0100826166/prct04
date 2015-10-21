@@ -7,3 +7,14 @@ Ruby Version Manager es una herramienta que nos permite tener en la misma máqui
 
 
 -La diferencia es que irb ejecuta sentencia por sentencia, mientras que un intérprete ejecuta todo el código.
+
+
+-El resultado es:
+	- 10
+	-:hello (definicion metodo)
+	- Hello World
+	- Bye bye World!!!
+	- = changed
+	- ...Value of x is: changed
+
+- La diferencia entre el interprete interactivo y PRY es el color.
